@@ -1,0 +1,38 @@
+.container img{
+    width: 293px;
+}
+
+.container h2 {
+    padding-top: 20px;
+}
+
+.container .background {
+    font-family: Impact, Arial;
+    background-color: black;
+    color: whitesmoke;
+    padding-top: 4px;
+    margin-bottom: 30px;
+    border-radius: 7px;
+    height: 200px;
+}
+
+.container .main {
+    padding-top: 10px;
+}
+
+.container ul {
+    padding-top: 10px;
+    display: inline-block;
+}
+
+.container ul li {
+    list-style: none;
+}
+
+.references {
+    border-radius: 20px;
+   color: #495057;
+    background-color: #ced4da7a;
+}
+
+

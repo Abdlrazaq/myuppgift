@@ -1,0 +1,17 @@
+.navbar {
+    font-family: sans-serif;
+    margin-bottom: 30px;
+    background-color: #ced4da2e;
+    color: black;
+    font-weight: bold;
+}
+
+ul li {
+    padding: 10px;
+}
+
+
+
+a:hover {
+    background-color:rgba(165, 42, 42, 0.479);
+  }
